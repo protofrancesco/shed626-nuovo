@@ -1,7 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-languageCode = "us-EN"
+languageCode = "en-us"
 title = "SHED626 Music Hub"
 
 [module]
