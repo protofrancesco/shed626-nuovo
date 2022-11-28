@@ -6,6 +6,6 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Alziamo il tuo volume!
+# I nostri servizi
 
-Consulta i nostri servizi e trova quello più adatto al tuo progetto. 
+Dai un'occhiata ai nostri servizi e realizza il tuo progetto! 
