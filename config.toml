@@ -1,4 +1,4 @@
-baseURL = "https://lovely-kitten-3a1a0b.netlify.app/"
+baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "us-EN"
@@ -27,9 +27,10 @@ title = "SHED626 Music Hub"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
-    google_fonts = 'https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Montserrat:wght@400;700&display=swap'
-    heading = "Montserrat"
-    base = "Montserrat"
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
+    heading = "Playfair Display"
+    base = "Source Sans Pro"
+
 
   [params.colors]
     primary = "#ffbb1f"
