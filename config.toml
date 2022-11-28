@@ -1,5 +1,5 @@
 baseURL = "https://lovely-kitten-3a1a0b.netlify.app/"
-themesDir = "shed626-nuovo/themes"
+themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "us-EN"
 title = "SHED626 Music Hub"
