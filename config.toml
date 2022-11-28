@@ -40,9 +40,11 @@ title = "SHED626 Music Hub"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_og_name = "SHED626 Music Hub"
+    meta_og_description = "studio di registrazione a Firenze"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+    meta_og_image = "/static/images/logo/SHED626_logo.png"
 
   [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
