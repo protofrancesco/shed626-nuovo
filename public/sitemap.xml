@@ -4,59 +4,99 @@
   <url>
     <loc>/team/samuele/</loc>
     <lastmod>2022-11-20T13:44:30+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/team/sommella/</loc>
     <lastmod>2022-11-19T10:47:58+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/services/prod/</loc>
     <lastmod>2022-11-18T12:33:46+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/team/sofia/</loc>
     <lastmod>2022-11-10T13:44:55+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/team/roci/</loc>
     <lastmod>2022-10-20T13:44:23+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/team/lenni/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/services/graphics/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/team/elettrici/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/services/podcast/</loc>
     <lastmod>2022-11-24T15:15:26+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/services/social/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/services/editoria/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/services/management/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/</loc>
     <lastmod>2022-11-24T15:15:26+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/services/</loc>
     <lastmod>2022-11-24T15:15:26+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/team/</loc>
     <lastmod>2022-11-20T13:44:30+10:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/404/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
