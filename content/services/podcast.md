@@ -10,7 +10,7 @@ Il podcast è uno dei mezzi di espressione e promozione più interessanti e attu
 
 Con il nostro servizio di ***Produzione Podcast*** potrai dare voce alle tue idee, rappresentare al meglio i valori della tua azienda e raggiungere un nuovo pubblico.
 
-All’interno del nostro studio e con il nostro aiuto potrai produrre il tuo podcast, creando, prima, un piano editoriale, registrando, poi, gli episodi e infine, pubblicando il tuo podcast finito su tutte le piattaforme.
+All’interno del nostro studio e con il nostro aiuto potrai produrre il tuo podcast: dal piano editoriale, fino alla registrazione e alla distribuzione.
 
 ## Produzione, editing, montaggio, e distribuzione del tuo podcast
 
